@@ -27,7 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 > Obs.: Nesse projeto temos autenticação via OAuth com o GitHub
 
 - Clone o repositório e acesse a pasta;
-- Faça uma copia do arquivo `.env.example` para `.env` e preencha com as suas credenciais do GitHub;
 - Instale as dependências com `yarn`;
 - Inicie o servidor com `yarn dev`;
 
